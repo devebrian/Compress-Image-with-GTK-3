@@ -1,1 +1,1 @@
-# CompressImage-with-GTK-3
+# Compress Image with GTK 3
